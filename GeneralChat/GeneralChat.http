@@ -1,0 +1,6 @@
+@GeneralChat_HostAddress = http://localhost:5068
+
+GET {{GeneralChat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
